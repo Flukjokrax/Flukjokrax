@@ -1,0 +1,6 @@
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer <rexdevcyber-TOKEN>" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+
+https://quaint-special-thunder.btc.quiknode.pro/6f71c8c5c644f72a9a4926b51ef8d3d739051699/
