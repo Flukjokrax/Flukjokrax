@@ -11,6 +11,7 @@ Server and Infrastructure: You own projects and are skilled in managing VPS (Vir
 You are one of the creators on... (Open-source UI sharing platform) Uiverse
 Your work often emphasizes the aesthetics of CSS/HTML, such as buttons or cards with modern features.
  **Infrastructure & DevOps Frameworks**
+
 ♾️ -  Automation and tools: You develop various tools to facilitate development, including (REX-SERVER).
 The name is often associated with projects like JokraxRex, showing an interest in the latest AI technologies (as seen in your use of Gemini 3 code).
 Or REX-SERVER.  You have an understanding of VPS, backend management, and setup.
