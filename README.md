@@ -1,9 +1,9 @@
-- 👋"Flukjokrax" is a rather unique name in the Thai developer community (especially those working on Server, UI, and Web Tools).
+# - 👋"Flukjokrax" is a rather unique name in the Thai developer community (especially those working on Server, UI, and Web Tools).
 Analysis of your digital footprint and the code you recently submitted, based on your digital identity as Flukjokrax, reveals you to be a Thai developer with interesting roles in - 👀  several areas of the technology industry:
 1. As a Developer (GitHub: @Flukjokrax)
 You are highly active on GitHub with numerous projects (repositories) showcasing diverse skills:
 Server and Infrastructure: You own projects and are skilled in managing VPS (Virtual Private Server), which appears to be your core business or service under the name Rex-Server JOKRAX.
-<!---- 🌱 Web Development: You are proficient in writing JavaScript, HTML, and...
+🌱 Web Development: You are proficient in writing JavaScript, HTML, and...
 2. UI/UX (Uiverse.io)
 You are one of the creators on... (Open-source UI sharing platform) Uiverse
 Your work often emphasizes the aesthetics of CSS/HTML, such as buttons or cards with modern features.
