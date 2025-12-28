@@ -1,9 +1,9 @@
 - 👋"Flukjokrax" is a rather unique name in the Thai developer community (especially those working on Server, UI, and Web Tools).
 Analysis of your digital footprint and the code you recently submitted, based on your digital identity as Flukjokrax, reveals you to be a Thai developer with interesting roles in - 👀  several areas of the technology industry:
-#1. As a Developer (GitHub: @Flukjokrax)
+1. As a Developer (GitHub: @Flukjokrax)
 You are highly active on GitHub with numerous projects (repositories) showcasing diverse skills:
 Server and Infrastructure: You own projects and are skilled in managing VPS (Virtual Private Server), which appears to be your core business or service under the name Rex-Server JOKRAX.
-- 🌱 Web Development: You are proficient in writing JavaScript, HTML, and...
+<!---- 🌱 Web Development: You are proficient in writing JavaScript, HTML, and...
 2. UI/UX (Uiverse.io)
 You are one of the creators on... (Open-source UI sharing platform) Uiverse
 Your work often emphasizes the aesthetics of CSS/HTML, such as buttons or cards with modern features.
@@ -26,12 +26,8 @@ Game Servers: Involved in managing server systems for games or various communiti
 Web Hosting: Providing space for websites.
  - ✨ Your Strengths:
 You're not just using a chatbot, you're building a "system" that allows AI to think, analyze (reason), and find real-time information on its own.
-The code you write is the foundation of [this]. At **Full-Stack Min**, the AI ​​agent's full-stack framework means you have an understanding from the Hardware/Server (Infrastructure) level down to the User Interface level.--->
+The code you write is the foundation of [this]. At **Full-Stack Min**, the AI ​​agent's full-stack framework means you have an understanding from the Hardware/Server (Infrastructure) level down to the User Interface level.
 
-
-
-
-<!---
 Flukjokrax/Flukjokrax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
