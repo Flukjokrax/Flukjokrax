@@ -2,7 +2,7 @@
 Analysis of your digital footprint and the code you recently submitted, based on your digital identity as Flukjokrax, reveals you to be a Thai developer with interesting roles in  
 
 
-
+src="button"
 
 👨🏾‍💻 - several areas of the technology industry:
 
