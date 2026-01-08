@@ -1,7 +1,10 @@
 # 👋"Flukjokrax" is a rather unique name in the Thai developer community (especially those working on Server, UI, and Web Tools).
 Analysis of your digital footprint and the code you recently submitted, based on your digital identity as Flukjokrax, reveals you to be a Thai developer with interesting roles in  
 
-👀 -  several areas of the technology industry:
+
+
+
+👨🏾‍💻 - several areas of the technology industry:
 
 💻  As a Developer (GitHub: @Flukjokrax)
 You are highly active on GitHub with numerous projects (repositories) showcasing diverse skills:
